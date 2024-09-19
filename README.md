@@ -23,7 +23,7 @@ To get started with AlgoViz, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Venkateeshh/AlgoViz.git
+   https://github.com/Rishav-dev-12/AlgoViz.git
    ```
 
 2. **Open the Project:**
