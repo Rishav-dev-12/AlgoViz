@@ -11,7 +11,7 @@ AlgoViz is a Java-based interactive tool that visualizes various sorting algorit
 
 - **Interactive Animations:** Watch sorting algorithms come to life with engaging visualizations.
   
-- **Multiple Sorting Algorithms:** Choose from a variety of algorithms including Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, and Heap Sort.
+- **Multiple Sorting Algorithms:** Choose from a variety of algorithms including Bubble Sort, Selection Sort, Insertion Sort, Merge Sort and Quick Sort.
 
 - **Real-Time Visualization:** Experience sorting algorithms in action, with each step animated on the graphical display.
 
